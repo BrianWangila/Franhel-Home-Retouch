@@ -9,9 +9,11 @@ background-color:beige;
     text-align: center;
     color:orange;
     border-radius: 23px;
+    padding-top: 4vh;
 }
 .span{
-    color:white
+    
+    color:black;
 }
 
 .team{
@@ -50,6 +52,10 @@ background-color:beige;
     background-color:white;
     line-height:2;
     position: sticky;
+  }
+
+  .team p {
+    margin-left: 4vw;
   }
 
   .card2 {

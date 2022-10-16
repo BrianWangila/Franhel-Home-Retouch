@@ -50,24 +50,28 @@ function AboutUs() {
          
           <img  src='https://images.unsplash.com/photo-1517841905240-472988babdf9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fHBlb3BsZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60' id ="img" alt='about' className="rounded-circle"/>
           <h3 className='names' >Brian Wangila</h3>
+          <p>Fullstack software dev</p>
         </div>
         <div>
           
           
           <img src='https://images.unsplash.com/photo-1517841905240-472988babdf9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fHBlb3BsZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60'id ="img" alt='about' className="rounded-circle"/>
           <h3 className='names'>Rose Maina</h3>
+          <p>Fullstack software dev</p>
         </div>
         <div>
           
           
           <img src='https://images.unsplash.com/photo-1517841905240-472988babdf9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fHBlb3BsZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60'id ="img" alt='about' className="rounded-circle"/>
           <h3 className='names'>Amos Sifuma </h3>
+          <p>Fullstack software dev</p>
         </div>
         <div>
           
          
           <img src='https://images.unsplash.com/photo-1517841905240-472988babdf9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fHBlb3BsZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60' id ="img" alt='about' className="rounded-circle"/>
           <h3 className='names'>Brian Ndinda </h3>
+          <p>Fullstack software dev</p>
         </div>
       </div>
     </div>
